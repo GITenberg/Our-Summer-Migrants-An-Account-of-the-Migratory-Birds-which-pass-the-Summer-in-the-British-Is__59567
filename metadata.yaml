@@ -1,0 +1,33 @@
+_repo: Our-Summer-Migrants-An-Account-of-the-Migratory-Birds-which-pass-the-Summer-in-the-British-Is__59567
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bewick, Thomas
+    alias: Bewick, T. (Thomas)
+    birthdate: 1753
+    deathdate: 1828
+    gutenberg_agent_id: '33524'
+    url: http://www.gutenberg.org/2009/agents/33524
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Bewick
+creator:
+  author:
+    agent_name: Harting, J. E.
+    gutenberg_agent_id: '50514'
+    url: http://www.gutenberg.org/2009/agents/50514
+description: ''
+gutenberg_issued: '2019-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Our Summer Migrants
+
+  An Account of the Migratory Birds which pass the Summer
+
+  in the British Islands.'
+url: http://www.gutenberg.org/ebooks/59567
